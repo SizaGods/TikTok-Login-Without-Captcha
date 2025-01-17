@@ -10,7 +10,7 @@ To ensure this code runs correctly, make sure you have the following packages in
 
 You can install the requests library using:
 
-```bash
+```bash 
 pip install requests
 ```
 
