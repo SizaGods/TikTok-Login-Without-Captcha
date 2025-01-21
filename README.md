@@ -6,7 +6,7 @@ This repository contains Python code that uses the `requests` library to interac
 
 To ensure this code runs correctly, make sure you have the following packages installed: 
 
-- requests
+- requests 
 
 You can install the requests library using:
 
