@@ -12,7 +12,7 @@ You can install the requests library using:
 
 ```bash 
 pip install requests
-```
+``` 
 
 ## Usage Instructions
 
