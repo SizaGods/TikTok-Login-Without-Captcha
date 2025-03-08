@@ -3,7 +3,7 @@
 This repository contains Python code that uses the `requests` library to interact with the TikTok API for user login purposes. The program sends an HTTP POST request to the TikTok server to log in a user based on provided credentials.
 
 ## Requirements 
-
+ 
 To ensure this code runs correctly, make sure you have the following packages installed: 
 
 - requests  
