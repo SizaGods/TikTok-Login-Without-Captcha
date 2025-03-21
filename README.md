@@ -4,7 +4,7 @@ This repository contains Python code that uses the `requests` library to interac
 
 ## Requirements 
  
-To ensure this code runs correctly, make sure you have the following packages installed: 
+To ensure this code runs correctly, make sure you have the following packages installed:  
 
 - requests  
 
